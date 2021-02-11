@@ -77,12 +77,14 @@ content:
             Develop authentication provider for microservices. \
             3rd party API integration (GitLab, Google Billing API, Rakuten services API) \
             Build Microservice Architecture. \
-            Break large software project into loosely coupled modules which communicate with each other via REST APIs. \
+            Break large software project into loosely coupled modules which communicate with each other via REST APIs.
             - Dockernize API modules
-            - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO \
+            - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO  
+
             Migrate legacy project
             - Migrate PL/SQL which has business logic to Spring framework + JPA
-            - Migrate file driven system and batch job system to API based system.
+            - Migrate file driven system and batch job system to API based system.  
+
       - layout: left
         title: TICKETMONSTER INC.
         link: https://www.tmon.co.kr/
