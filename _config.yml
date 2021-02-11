@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: semicolok/semicolok.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: 한준구 (Han Jungu)
 title: Software Engineer
 email: semicolok@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: semicolok.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,10 +19,10 @@ twitter_username: semicolok
 github_username: semicolok
 # stackoverflow_username: "00000001"
 # dribbble_username: semicolok
-# facebook_username: semicolok
+facebook_username: semicolok
 # flickr_username: semicolok
 # instagram_username: jameswgrant
-linkedin_username: semicolok
+linkedin_username: junguhan
 # xing_username: jekyll
 # pinterest_username: semicolok
 # youtube_username: jknyou
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/jungu.han.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
