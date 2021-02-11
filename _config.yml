@@ -48,10 +48,10 @@ linkedin_username: junguhan
 about_title: About Me
 about_profile_image: images/profile_1.jpg
 about_content: | 
-    Ambitious developer who enjoys learning all kind of knowledge. Interest in "Full-stack engineer". Having experience in all sides of web project. (back-end, front-end) \
-    A skilled Java developer with proven expertise in using new tools and technical developments to drive improvements during entire software development life cycle. \
-    Having extensive experience in a Java based environment, along with architecture, design and development of distributed systems. \
-    Looking for an ambitious company that will challenge me and allow me to continue to develop my knowledge and potential. \
+    - Ambitious developer who enjoys learning all kind of knowledge. Interest in "Full-stack engineer". Having experience in all sides of web project. (back-end, front-end)
+    - A skilled Java developer with proven expertise in using new tools and technical developments to drive improvements during entire software development life cycle.
+    - Having extensive experience in a Java based environment, along with architecture, design and development of distributed systems.
+    - Looking for an ambitious company that will challenge me and allow me to continue to develop my knowledge and potential.
 
 content:
   - title: Experience # Title for the section
@@ -73,17 +73,16 @@ content:
         sub_title: Software Engineer
         caption: Feb 2017 - Mar 2020
         description: | 
-            Develop REST API with Spring. (User-API, Product-API, Mobile-data-API) \
-            Develop authentication provider for microservices. \
-            3rd party API integration (GitLab, Google Billing API, Rakuten services API) \
-            Build Microservice Architecture. \
-            Break large software project into loosely coupled modules which communicate with each other via REST APIs.
-            - Dockernize API modules
-            - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO  
-
-            Migrate legacy project
-            - Migrate PL/SQL which has business logic to Spring framework + JPA
-            - Migrate file driven system and batch job system to API based system.  
+            - Develop REST API with Spring. (User-API, Product-API, Mobile-data-API)
+            - Develop authentication provider for microservices.
+            - 3rd party API integration (GitLab, Google Billing API, Rakuten services API)
+            - Build Microservice Architecture.
+            - Break large software project into loosely coupled modules which communicate with each other via REST APIs.
+              - Dockernize API modules
+              - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO  
+            - Migrate legacy project
+              - Migrate PL/SQL which has business logic to Spring framework + JPA
+              - Migrate file driven system and batch job system to API based system.  
 
       - layout: left
         title: TICKETMONSTER INC.
@@ -105,7 +104,7 @@ content:
             Responsible for developing Shopping Cart project and Live Chatting Service for customers.
 
             Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)  
-            
+
             Designing, developing and maintaining Live Chatting service. (NodeJS, Spring, handlebars) \
             Development of Java interfaces & Configuration Management of the source code. \
             Investigating alternate configurations & implementing better solutions. \
