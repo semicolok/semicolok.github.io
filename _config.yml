@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: 한준구 (Han Jungu)
+title: Software Engineer
+email: semicolok@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: semicolok
+github_username: semicolok
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# dribbble_username: semicolok
+# facebook_username: semicolok
+# flickr_username: semicolok
+# instagram_username: jameswgrant
+linkedin_username: semicolok
 # xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
+# pinterest_username: semicolok
+# youtube_username: jknyou
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
