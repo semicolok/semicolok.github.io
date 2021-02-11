@@ -102,8 +102,10 @@ content:
         sub_title: Software Engineer
         caption: Mar 2015 - Apr 2016
         description: | 
-            Responsible for developing Shopping Cart project and Live Chatting Service for customers. \
-            Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring) \
+            Responsible for developing Shopping Cart project and Live Chatting Service for customers.
+
+            Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)  
+            
             Designing, developing and maintaining Live Chatting service. (NodeJS, Spring, handlebars) \
             Development of Java interfaces & Configuration Management of the source code. \
             Investigating alternate configurations & implementing better solutions. \
