@@ -142,6 +142,31 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Training soldiers to learn how to fight with our enemies using a towed artillery named KH-179.
 
+  - title: Skills
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Languages
+        description: | 
+            Java, Javascript, HTML, Scala, Groovy, Python, SQL, PL/SQL
+      - layout: left
+        title: Standards / Frameworks
+        description: | 
+            Spring, Spring-boot, Spring-cloud, Spring-security, Spring-data, Spring-data-redis, Gradle, Maven, SBT, QueryDSL, Hibernate, MyBatis, Ehcache, Servlet, AJAX, JQuery, RESTful, Flyway, Junit, Mockito, Spock, Play framework, Skinny-orm,  Django, Grails, AngularJS, NodeJS, ReactJS
+      - layout: left
+        title: Web Servers / Application Servers
+        description: | 
+            Apache, Nginx, Tomcat, Jetty, GlassFish
+      - layout: left
+        title: Databases
+        description: | 
+            Oracle, MySQL, MariaDB, Redis, MongoDB, Google Cloud SQL, Google Datastore
+      - layout: left
+        title: Development / Environment Tools / Techniques
+        description: | 
+            Git, Subversion, Jenkins, Jira, Google Compute Engine, Google Kubernetes Engine, AWS, Azure, Nexus, JMeter, nGrinder, Pinpoint, DC/OS, Kubernetes, Docker
+      
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
