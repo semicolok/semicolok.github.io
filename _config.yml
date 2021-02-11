@@ -68,41 +68,68 @@ content:
         description: | # this will include new lines to allow paragraphs
             DevOps Platform Team
       - layout: left
-        title: Rakuten, Inc
+        title: Rakuten, Inc.
         link: https://www.rakuten.com/
-        # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: Feb 2017 - Mar 2020
         description: | 
-            Develop REST API with Spring. (User-API, Product-API, Mobile-data-API)
-Develop authentication provider for microservices.
-3rd party API integration (GitLab, Google Billing API, Rakuten services API)
-Build Microservice Architecture.
-Break large software project into loosely coupled modules which communicate with each other via REST APIs.
-- Dockernize API modules
-- Configure GKE(Google Kubernetes Engine), Gateway and ISTIO
-Migrate legacy project
-- Migrate PL/SQL which has business logic to Spring framework + JPA
-- Migrate file driven system and batch job system to API based system.
-
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+            * Develop REST API with Spring. (User-API, Product-API, Mobile-data-API)
+            * Develop authentication provider for microservices.
+            * 3rd party API integration (GitLab, Google Billing API, Rakuten services API)
+            * Build Microservice Architecture.
+            * Break large software project into loosely coupled modules which communicate with each other via REST APIs.
+              - Dockernize API modules
+              - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO
+            * Migrate legacy project
+              - Migrate PL/SQL which has business logic to Spring framework + JPA
+              - Migrate file driven system and batch job system to API based system.
+      - layout: left
+        title: TICKETMONSTER INC.
+        link: https://www.tmon.co.kr/
+        sub_title: Software Engineer
+        caption: May 2016 - Dec 2016
+        description: | 
+            * Responsible for developing products API.
+            * Migrating legacy code. (PHP & CodIgniter => Java & Spring framework)
+            * Development of Java interfaces & Setting up development environment. 
+            * Investigating alternate configurations & implementing better solutions.
+            * Sustaining products API and web pages.
+      - layout: left
+        title: Forward Ventures Co.,Ltd (Coupang)
+        link: https://www.coupang.com/
+        sub_title: Software Engineer
+        caption: Mar 2015 - Apr 2016
+        description: | 
+            * Responsible for developing Shopping Cart project and Live Chatting Service for customers.
+            * Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)
+            * Designing, developing and maintaining Live Chatting service. (NodeJS, Spring, handlebars)
+            * Development of Java interfaces & Configuration Management of the source code.
+            * Investigating alternate configurations & implementing better solutions.
+            * Mentoring and coaching junior developers.
+            * Sustaining Shopping Cart & Live Chatting Service.
+      - layout: left
+        title: Software in Life Inc.
+        link: https://www.docswave.com/
+        sub_title: Software Engineer
+        caption: Nov 2011 - Mar 2015
+        description: | 
+            * Designing, developing and maintaining the entire application using Spring framework and AngularJS.
+            * Working with other developers to build technical solutions & complete projects.
+            * Developing new web based projects, components & functionality to exist in systems.
+            * Development of Java interfaces & Configuration Management of the source code.
+            * Solving problems and bugs.
+            * Investigating alternate configurations & implementing better solutions.
+            * Mentoring and coaching junior developers.
+            * Meeting client’s face to face at their offices.
+      - layout: left
+        title: Republic of Korea Army
+        link: https://www.mnd.go.kr/
+        sub_title: Staff Sergeant
+        caption: Jun 2006 - Jun 2010
+        quote: >
+          Artillery Sergeant
+        description: | 
+            * Training soldiers to learn how to fight with our enemies using a towed artillery named KH-179.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
