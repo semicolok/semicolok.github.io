@@ -73,13 +73,13 @@ content:
         sub_title: Software Engineer
         caption: Feb 2017 - Mar 2020
         description: | 
-            Develop REST API with Spring. (User-API, Product-API, Mobile-data-API)
-            Develop authentication provider for microservices.
-            3rd party API integration (GitLab, Google Billing API, Rakuten services API)
-            Build Microservice Architecture.
-            Break large software project into loosely coupled modules which communicate with each other via REST APIs.
+            Develop REST API with Spring. (User-API, Product-API, Mobile-data-API) \
+            Develop authentication provider for microservices. \
+            3rd party API integration (GitLab, Google Billing API, Rakuten services API) \
+            Build Microservice Architecture. \
+            Break large software project into loosely coupled modules which communicate with each other via REST APIs. \
             - Dockernize API modules
-            - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO
+            - Configure GKE(Google Kubernetes Engine), Gateway and ISTIO \
             Migrate legacy project
             - Migrate PL/SQL which has business logic to Spring framework + JPA
             - Migrate file driven system and batch job system to API based system.
@@ -89,10 +89,10 @@ content:
         sub_title: Software Engineer
         caption: May 2016 - Dec 2016
         description: | 
-            Responsible for developing products API.
-            Migrating legacy code. (PHP & CodIgniter => Java & Spring framework)
-            Development of Java interfaces & Setting up development environment. 
-            Investigating alternate configurations & implementing better solutions.
+            Responsible for developing products API. \
+            Migrating legacy code. (PHP & CodIgniter => Java & Spring framework) \
+            Development of Java interfaces & Setting up development environment.  \
+            Investigating alternate configurations & implementing better solutions. \
             Sustaining products API and web pages.
       - layout: left
         title: Forward Ventures Co.,Ltd (Coupang)
@@ -100,12 +100,12 @@ content:
         sub_title: Software Engineer
         caption: Mar 2015 - Apr 2016
         description: | 
-            Responsible for developing Shopping Cart project and Live Chatting Service for customers.
-            Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)
-            Designing, developing and maintaining Live Chatting service. (NodeJS, Spring, handlebars)
-            Development of Java interfaces & Configuration Management of the source code.
-            Investigating alternate configurations & implementing better solutions.
-            Mentoring and coaching junior developers.
+            Responsible for developing Shopping Cart project and Live Chatting Service for customers. \
+            Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring) \
+            Designing, developing and maintaining Live Chatting service. (NodeJS, Spring, handlebars) \
+            Development of Java interfaces & Configuration Management of the source code. \
+            Investigating alternate configurations & implementing better solutions. \
+            Mentoring and coaching junior developers. \
             Sustaining Shopping Cart & Live Chatting Service.
       - layout: left
         title: Software in Life Inc.
@@ -113,13 +113,13 @@ content:
         sub_title: Software Engineer
         caption: Nov 2011 - Mar 2015
         description: | 
-            Designing, developing and maintaining the entire application using Spring framework and AngularJS.
-            Working with other developers to build technical solutions & complete projects.
-            Developing new web based projects, components & functionality to exist in systems.
-            Development of Java interfaces & Configuration Management of the source code.
-            Solving problems and bugs.
-            Investigating alternate configurations & implementing better solutions.
-            Mentoring and coaching junior developers.
+            Designing, developing and maintaining the entire application using Spring framework and AngularJS. \
+            Working with other developers to build technical solutions & complete projects. \
+            Developing new web based projects, components & functionality to exist in systems. \
+            Development of Java interfaces & Configuration Management of the source code. \
+            Solving problems and bugs. \
+            Investigating alternate configurations & implementing better solutions. \
+            Mentoring and coaching junior developers. \
             Meeting client’s face to face at their offices.
       - layout: left
         title: Republic of Korea Army
@@ -147,12 +147,10 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Powerlifting
+      - Bouldering
 
   #     Look at this cool image  
   #     ![Trees](images/landscape-trees.jpg "Trees")
