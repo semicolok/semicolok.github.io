@@ -63,15 +63,19 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer
         caption: Feb 2020 - Present
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: >
+          DevOps Platform Team  
         description: | # this will include new lines to allow paragraphs
-            DevOps Platform Team
+            - Develop file management system. (MinIO, spring boot, spring security OAuth2.0, gradle, MySQL)
+            - Develop docker deployment system. (Ansible, Jenkins, spring boot, gradle, MongoDB)
+            - Sustaining IAM system. (OpenLDAP, spring boot, gradle, Orcacle, MySQL)
       - layout: left
         title: Rakuten, Inc.
         link: https://www.rakuten.com/
         sub_title: Software Engineer
         caption: Feb 2017 - Mar 2020
+        quote: >
+          Network Division  
         description: | 
             - Develop REST API with Spring. (User-API, Product-API, Mobile-data-API)
             - Develop authentication provider for microservices.
@@ -89,6 +93,8 @@ content:
         link: https://www.tmon.co.kr/
         sub_title: Software Engineer
         caption: May 2016 - Dec 2016
+        quote: >
+          Service Development Lab
         description: | 
             - Responsible for developing products API.
             - Migrating legacy code. (PHP & CodIgniter => Java & Spring framework)
@@ -100,6 +106,8 @@ content:
         link: https://www.coupang.com/
         sub_title: Software Engineer
         caption: Mar 2015 - Apr 2016
+        quote: >
+          Team Rossetta
         description: | 
             - Responsible for developing Shopping Cart project and Live Chatting Service for customers.
             - Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)  
@@ -113,6 +121,8 @@ content:
         link: https://www.docswave.com/
         sub_title: Software Engineer
         caption: Nov 2011 - Mar 2015
+        quote: >
+          R&D Center
         description: | 
             - Designing, developing and maintaining the entire application using Spring framework and AngularJS.
             - Working with other developers to build technical solutions & complete projects.
@@ -152,6 +162,7 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Powerlifting
       - Bouldering
+      - Traveling
 
   #     Look at this cool image  
   #     ![Trees](images/landscape-trees.jpg "Trees")
