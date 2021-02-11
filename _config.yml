@@ -48,10 +48,10 @@ linkedin_username: junguhan
 about_title: About Me
 about_profile_image: images/profile_1.jpg
 about_content: | 
-    Ambitious developer who enjoys learning all kind of knowledge. Interest in "Full-stack engineer". Having experience in all sides of web project. (back-end, front-end)
-    A skilled Java developer with proven expertise in using new tools and technical developments to drive improvements during entire software development life cycle.
-    Having extensive experience in a Java based environment, along with architecture, design and development of distributed systems.
-    Looking for an ambitious company that will challenge me and allow me to continue to develop my knowledge and potential.
+    Ambitious developer who enjoys learning all kind of knowledge. Interest in "Full-stack engineer". Having experience in all sides of web project. (back-end, front-end) \
+    A skilled Java developer with proven expertise in using new tools and technical developments to drive improvements during entire software development life cycle. \
+    Having extensive experience in a Java based environment, along with architecture, design and development of distributed systems. \
+    Looking for an ambitious company that will challenge me and allow me to continue to develop my knowledge and potential. \
 
 content:
   - title: Experience # Title for the section
