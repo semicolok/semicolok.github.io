@@ -64,7 +64,7 @@ content:
         sub_title: Software Engineer
         caption: Feb 2020 - Present
         quote: >
-          DevOps Platform Team  
+          Top internet-only lender Kakao Bank  
         description: | # this will include new lines to allow paragraphs
             - Develop file management system. (MinIO, spring boot, spring security OAuth2.0, gradle, MySQL)
             - Develop docker deployment system. (Ansible, Jenkins, spring boot, gradle, MongoDB)
@@ -75,7 +75,7 @@ content:
         sub_title: Software Engineer & DevOps Team Leader
         caption: Feb 2017 - Mar 2020
         quote: >
-          Network Division  
+          Japanese e-commerce and online retailing company based in Tokyo  
         description: | 
             - Develop REST API with Spring. (User-API, Product-API, Mobile-data-API)
             - Develop authentication provider for microservices.
@@ -94,7 +94,7 @@ content:
         sub_title: Software Engineer
         caption: May 2016 - Dec 2016
         quote: >
-          Service Development Lab
+          The first social commerce operator in Korea  
         description: | 
             - Responsible for developing products API.
             - Migrating legacy code. (PHP & CodIgniter => Java & Spring framework)
@@ -107,7 +107,7 @@ content:
         sub_title: Software Engineer
         caption: Mar 2015 - Apr 2016
         quote: >
-          Team Rossetta
+          "How did we ever live without Coupang?"​ | Coupang is the largest e-commerce company in Korea
         description: | 
             - Responsible for developing Shopping Cart project and Live Chatting Service for customers.
             - Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)  
@@ -122,7 +122,7 @@ content:
         sub_title: Software Engineer
         caption: Nov 2011 - Mar 2015
         quote: >
-          R&D Center
+          Cloud Services Brokerage Company  
         description: | 
             - Designing, developing and maintaining the entire application using Spring framework and AngularJS.
             - Working with other developers to build technical solutions & complete projects.
@@ -138,7 +138,7 @@ content:
         sub_title: Staff Sergeant
         caption: Jun 2006 - Jun 2010
         quote: >
-          Artillery Sergeant
+          Make the impossible possible!  
         description: | # this will include new lines to allow paragraphs
             - Training soldiers to learn how to fight with our enemies using a towed artillery named KH-179.
 
