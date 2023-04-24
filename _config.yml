@@ -58,11 +58,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Yanolja
+        link: https://www.yanolja.com/
+        sub_title: Software Engineer
+        caption: Sep 2021 - Present
+      - layout: left
         title: Kakao Bank
         link: https://www.kakaobank.com/
         # link_text: boringcompany.com
         sub_title: Software Engineer
-        caption: Feb 2020 - Present
+        caption: Feb 2020 - Sep 2021
         quote: >
           Top internet-only lender Kakao Bank  
         description: | # this will include new lines to allow paragraphs
@@ -105,9 +110,9 @@ content:
         title: Forward Ventures Co.,Ltd (Coupang)
         link: https://www.coupang.com/
         sub_title: Software Engineer
-        caption: Mar 2015 - Apr 2016
+        caption: Mar 2015 - May 2016
         quote: >
-          "How did we ever live without Coupang?"​ | Coupang is the largest e-commerce company in Korea
+          "How did we ever live without Coupang?" | Coupang is the largest e-commerce company in Korea
         description: | 
             - Responsible for developing Shopping Cart project and Live Chatting Service for customers.
             - Migrating Shopping cart legacy code. (MyBatis & Maven & Spring => Spring-data-jpa & Gradle & Spring)  
