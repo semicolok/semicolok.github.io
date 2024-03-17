@@ -51,6 +51,8 @@ about_content: |
     - Ambitious developer who enjoys learning all kind of knowledge. Interest in "Full-stack engineer". Having experience in all sides of web project. (back-end, front-end)
     - A skilled Java developer with proven expertise in using new tools and technical developments to drive improvements during entire software development life cycle.
     - Having extensive experience in a Java based environment, along with architecture, design and development of distributed systems.
+    - Have experience in various domains. E-Commerce, MVNO, Internet bank, OTA. Capacity for making domains simple to understand. What kind of domains, approach comfortably.
+    - Leadership. Based on 4 years millitary service as a Staff Sergeant, have experience managing and care team members.
     - Looking for an ambitious company that will challenge me and allow me to continue to develop my knowledge and potential.
 
 content:
@@ -63,9 +65,16 @@ content:
         sub_title: Software Engineer
         caption: Sep 2021 - Present
         quote: >
-          ......
+          Full-Stack Hospitality Service Provider
         description: |
-            - ..
+            - Integration Hanwha CRS(Computerized Reservations System) System.
+              - Investigate "Hanwha CRS".
+              - Degign & Develop components.
+            - Migration "HotelNow" data to "Partner Center".
+            - Refactoring legacy code
+              - Query Optimization
+              - Improve Exception Handling Strategy
+              - Find out bottleneck & Fix
       - layout: left
         title: Kakao Bank
         link: https://www.kakaobank.com/
@@ -111,7 +120,7 @@ content:
             - Investigating alternate configurations & implementing better solutions.
             - Sustaining products API and web pages.
       - layout: left
-        title: Forward Ventures Co.,Ltd (Coupang)
+        title: Coupang
         link: https://www.coupang.com/
         sub_title: Software Engineer
         caption: Mar 2015 - May 2016
